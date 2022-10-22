@@ -1,0 +1,50 @@
+header {
+    background-color: white;
+    /* background-color: #ff9dc3; */  
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    color: rebeccapurple;
+}
+
+nav {
+    margin-right: 200px;
+    line-height: 30px;
+}
+
+.navbar-brand{
+    color: #ff9dc3;
+    font-weight: 800;
+}
+
+.navbar-brand:hover {
+    text-decoration: underline;
+    color: pink;
+}
+
+li {
+    margin-right: 40px;
+    font-size: 18px;
+    text-transform: none;
+    text-decoration: none;
+}
+
+.nav-link {
+    color: #ff9dc3;
+    /* color: #b9deee; */
+    font-weight: 800;
+}
+
+
+.nav-link:hover {
+    text-decoration: underline;
+    color: pink;
+}
+
+nav img {
+    width: 50px;
+    height: 50px;
+    margin-left: 50px;
+}
